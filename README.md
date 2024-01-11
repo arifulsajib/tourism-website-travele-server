@@ -7,4 +7,4 @@
 
 ### Links
 
-- Server: [travelle-server](https://lit-river-98467.herokuapp.com/)
+- Server: [travelle-server](https://travele-tourism-server.onrender.com/)
